@@ -9,9 +9,11 @@ After installing it, we don't run it!!!
 
 
 3. Download the activator - [click](https://github.com/yeuhang050223/OctoBrowserActivatorFree/releases/tag/Activator)
+   ![image](https://github.com/yeuhang050223/OctoBrowserActivatorFree/assets/147838708/7ec94f5e-de61-47a7-a486-2d571e6cc77b)
 
 
-4. Run the activator and enter the path to the octo. Then click RunPath
+
+5. Run the activator and enter the path to the octo. Then click RunPath
  
 ![c944b2ab-af8b-4133-8cb9-d670b2b88056](https://github.com/yeuhang050223/OctoBrowserActivatorFree/assets/147838708/0fb76f10-0389-4c0a-a9c1-ba5e6cff60f0)
 
